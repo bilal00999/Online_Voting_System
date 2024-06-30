@@ -102,4 +102,65 @@
     <ul>
         <li>If the user enters an invalid choice at any menu, they are informed of the invalid input and prompted to enter a valid choice.</li>
     </ul>
+<h2>Example Interaction</h2>
+|________|~Online Voting System~|________|
 
+1 : Cast Vote
+2 : Check Result
+3 : exit
+
+Enter your Choice
+1
+
+Enter your name
+John Doe
+
+Enter your Cnic_no
+12345-6789012-3
+
+Enter your age
+25
+
+Enter your vote
+
+1 : PPP
+2 : PTI
+3 : PMLN
+4 : MQM
+5 : IND
+2
+
+~Thank you for casting your vote~
+
+|________|~Online Voting System~|________|
+
+1 : Cast Vote
+2 : Check Result
+3 : exit
+
+Enter your Choice
+2
+
+______~check result~______
+
+Enter your choice
+
+1 : vote of PPP
+2 : vote of PTI
+3 : vote of PMLN
+4 : vote of MQM
+5 : vote of IND
+6 : all of them
+2
+
+Vote of PTI is 1
+
+|________|~Online Voting System~|________|
+
+1 : Cast Vote
+2 : Check Result
+3 : exit
+
+Enter your Choice
+3
+<p>This example demonstrates how a user can cast a vote and check the result. The user is repeatedly prompted with the menu until they choose to exit.</p>
