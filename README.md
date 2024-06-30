@@ -76,5 +76,21 @@
         <li>The user's vote is recorded, and the corresponding party's vote count is incremented.</li>
         <li>The user is thanked for casting their vote.</li>
     </ul>
-    
+    <h3>Checking Results</h3>
+    <ul>
+        <li>When the user selects the "Check Result" option:</li>
+        <li>The CheckResult() method is called.</li>
+        <liThe user is prompted to choose which party's vote count they want to check or to view all results:></li>
+            <ol type="1">
+                <li>Vote count for PPP</li>
+                <li>Vote count for PTI</li>
+                <li>Vote count for PMLN</li>
+                <li>Vote count for MQM</li>
+                <li>Vote count for IND</li>
+                <li>Vote count for all parties</li>
+            </ol>
+            <ul>
+                <li>The chosen result is displayed.</li>
+            </ul>
+    </ul>
 
