@@ -29,12 +29,12 @@
     <h3>1. voting class</h3>
     <ul>
         <h4><b>Attributes</b></h4>
-        <li>name: Stores the name of the voter.</li>
-        <li>cnic_no: Stores the CNIC number of the voter.</li>
-        <li>age: Stores the age of the voter.</li>
-        <li>vote: Stores the party number the voter is voting for.</li>
-        <li>result: Stores the result choice for checking votes.</li>
-        <li>Static variables for vote counts: ppp, pti, pmln, mqm, ind.</li>
+            <li>name: Stores the name of the voter.</li>
+            <li>cnic_no: Stores the CNIC number of the voter.</li>
+            <li>age: Stores the age of the voter.</li>
+            <li>vote: Stores the party number the voter is voting for.</li>
+            <li>result: Stores the result choice for checking votes.</li>
+            <li>Static variables for vote counts: ppp, pti, pmln, mqm, ind.</li>
     </ul>
     
 
