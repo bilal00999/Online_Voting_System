@@ -59,5 +59,22 @@
             <li>Exit</li>
         </ol>
     </ul>
+    <h3>Casting a Vote</h3>
+    <ul>
+        <li>When the user selects the "Cast Vote" option:</li>
+        <li>The CastVote() method is called.</li>
+        <li>The user is prompted to enter their name, CNIC number, and age.</li>
+        <li>If the user is under 18 years of age, they are informed that they are not eligible to vote.</li>
+        <li>If the user is eligible, they are presented with a list of political parties to vote for:</li>
+        <ol type="1">
+             <li>PPP</li>
+             <li>PTI</li>
+             <li>PMLN</li>
+             <li>MQM</li>
+             <li>IND</li>
+        </ol>
+        <li>The user's vote is recorded, and the corresponding party's vote count is incremented.</li>
+        <li>The user is thanked for casting their vote.</li>
+    </ul>
     
 
