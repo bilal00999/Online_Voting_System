@@ -164,3 +164,6 @@ Vote of PTI is 1
 Enter your Choice
 3
 <p>This example demonstrates how a user can cast a vote and check the result. The user is repeatedly prompted with the menu until they choose to exit.</p>
+<h2>Conclusion</h2>
+<hr>
+<p>The Online Voting System project demonstrates a basic yet functional implementation of an electronic voting system using Java. It includes features such as user interaction for casting votes, age verification, and result checking, encapsulated within the Voting class to ensure data integrity. Static variables are used for vote counts, and robust input handling prevents system crashes. The console-based interface is user-friendly, though the system lacks scalability, security, and data persistence. Potential improvements include integrating a database, enhancing security measures, developing a graphical user interface, improving error handling, and optimizing for scalability. This project provides a foundational example of electronic voting systems, demonstrating key programming principles and offering a platform for further enhancement.</p>
