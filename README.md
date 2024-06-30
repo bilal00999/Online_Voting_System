@@ -44,7 +44,7 @@
             <li>CastVote(): Method to cast a vote.</li>
             <li>CheckResult(): Method to check the results of the votes.</li>
     </ul>
-    <h3>2. OnlineVotingSystem Class</h3>
+    <h3>2. Online Voting System Class</h3>
     <ul>
         <li>Contains the main() method, which is the entry point of the application.</li>
         <li>Creates an instance of the Voting class and provides a menu-driven interface for casting votes and checking results.</li>
