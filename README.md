@@ -25,6 +25,10 @@
     <li><p>Inspire learners to think about more complex systems and how to implement them using Java.</p></li>
     <h2>Working</h2>
     <hr>
-    
+    <h2>Components of the Project</h2>
+    <h3>1. voting class</h3>
+    <ul>
+        <h4><b>Attributes</b></h4>
+    </ul>
     
 
