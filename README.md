@@ -59,7 +59,7 @@
             <li>Exit</li>
         </ol>
     </ul>
-    <h3>Casting a Vote</h3>
+    <h3>2. Casting a Vote</h3>
     <ul>
         <li>When the user selects the "Cast Vote" option:</li>
         <li>The CastVote() method is called.</li>
@@ -76,7 +76,7 @@
         <li>The user's vote is recorded, and the corresponding party's vote count is incremented.</li>
         <li>The user is thanked for casting their vote.</li>
     </ul>
-    <h3>Checking Results</h3>
+    <h3>3. Checking Results</h3>
     <ul>
         <li>When the user selects the "Check Result" option:</li>
         <li>The CheckResult() method is called.</li>
@@ -92,5 +92,14 @@
             <ul>
                 <li>The chosen result is displayed.</li>
             </ul>
+    </ul>
+    <h3>4. Exiting the Program</h3>
+    <ul>
+        <li>When the user selects the "Exit" option:</li>
+        <li>The main() method closes the scanner to prevent resource leaks and terminates the program.</li>
+    </ul>
+    <h3>5. Invalid Input Handling</h3>
+    <ul>
+        <li>If the user enters an invalid choice at any menu, they are informed of the invalid input and prompted to enter a valid choice.</li>
     </ul>
 
