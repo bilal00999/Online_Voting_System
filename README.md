@@ -53,7 +53,7 @@
     <h3>1. Program Start</h3>
     <ul>
         <li>The main() method displays the main menu with three options</li>
-        <ol>
+        <ol type="1">
             <li>Cast Vote</li>
             <li>Check Result</li>
             <li>Exit</li>
