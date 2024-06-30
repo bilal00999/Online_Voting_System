@@ -49,5 +49,15 @@
         <li>Contains the main() method, which is the entry point of the application.</li>
         <li>Creates an instance of the Voting class and provides a menu-driven interface for casting votes and checking results.</li>
     </ul>
+    <h2>Execution Flow</h2>
+    <h3>1. Program Start</h3>
+    <ul>
+        <li>The main() method displays the main menu with three options</li>
+        <ol>
+            <li>Cast Vote</li>
+            <li>Check Result</li>
+            <li>Exit</li>
+        </ol>
+    </ul>
     
 
