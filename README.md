@@ -35,6 +35,14 @@
             <li>vote: Stores the party number the voter is voting for.</li>
             <li>result: Stores the result choice for checking votes.</li>
             <li>Static variables for vote counts: ppp, pti, pmln, mqm, ind.</li>
+        <h4><b>Methods</b></h4>
+            <li>setName(), getName(): Setter and getter for the voter's name.</li>
+            <li>setCnic_no(), getCnic_no(): Setter and getter for the voter's CNIC number.</li>
+            <li>setAge(), getAge(): Setter and getter for the voter's age.</li>
+            <li>setVote(), getVote(): Setter and getter for the voter's chosen party.</li>
+            <li>setResult(), getResult(): Setter and getter for the result choice.</li>
+            <li>CastVote(): Method to cast a vote.</li>
+            <li>CheckResult(): Method to check the results of the votes.</li>
     </ul>
     
 
